@@ -1,0 +1,119 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    margin: 0;
+    font-size: 70px;
+    color: white;
+    padding-top: 150px;
+    text-transform: capitalize;
+}
+
+.container1 {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.container2 {
+    width: 65%;
+    margin: auto;
+    text-align: center;
+}
+
+a.button {
+    text-decoration: none;
+    color: white;
+    background: #ff5959;
+    padding: 15px 40px;
+    border-radius: 10px;
+}
+
+p.headingPera {
+    padding-bottom: 30px;
+    color: white;
+    text-transform: initial;
+}
+
+.headingSection{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+h2 {
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+ul li {
+    list-style: none;
+    display: initial;
+    padding: 35px;
+    background: #fafafa;
+    border-radius: 10px;
+    margin-left: 20px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: #707070;
+}
+
+ul {
+    padding: 50px;
+}
+
+.horizontal {
+    padding-bottom: 25px;
+    width: 95%;
+    color: #707070;
+    margin: auto;
+}
+
+li.extraDesign {
+    background: #ffeeee;
+    border: 3px solid tomato;
+    color: tomato;
+}
+
+p.peragraph {
+    color: #707070;
+    text-transform: none;
+    font-size: 18px;
+}
+
+.cards {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    padding-top: 50px;
+}
+
+.card1 {
+    width: 300px;
+    padding: 45px 30px 30px 34px;
+    border-radius: 10px;
+    background: #edf5f6;
+}
+
+.card2 {
+    width: 300px;
+    padding: 45px 30px 30px 34px;
+    border-radius: 10px;
+    background: #ffeeee;
+    margin-left: 15px;
+}
+
+.card3 {
+    width: 300px;
+    padding: 45px 30px 30px 34px;
+    border-radius: 10px;
+    background: #fff4d6;
+    margin-left: 15px;
+}
+
+
+
