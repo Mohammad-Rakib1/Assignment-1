@@ -202,6 +202,8 @@ footer p {
 footer h1 {
     font-size: 30px;
     padding-top: 4%;
+    font-family: 'Lobster', cursive;
+    color: #ff5959;
 }
 
 p.cards-pera {
